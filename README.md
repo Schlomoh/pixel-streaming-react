@@ -17,15 +17,16 @@ This project provides a React wrapper around Epic Games' Pixel Streaming library
 
 ## Prerequisites
 
-- Node.js (latest LTS version recommended)
+- Node.js (latest LTS version recommended - v22)
 - An Unreal Engine Pixel Streaming server running
+  (To be included in this repo)
 
 ## Installation
 
 Clone the repository and install dependencies:
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:Schlomoh/pixel-streaming-react.git
 cd pixel-streaming-react
 npm install
 ```
